@@ -1,2 +1,2 @@
-# Shell-scripting-labs
+# Shell-Scripting-Projects
 Useful shell scripting for devops purpose
